@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+body{
+  background-image: url("https://img.freepik.com/vector-gratis/vector-ilustracion-fondo-azul-conexion-todo-mundo_53876-76811.jpg?t=st=1744492955~exp=1744496555~hmac=2d5d88214eefec07c1253718b837f6471f96021b06044a368bf3d1757377aeb3&w=740");
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
